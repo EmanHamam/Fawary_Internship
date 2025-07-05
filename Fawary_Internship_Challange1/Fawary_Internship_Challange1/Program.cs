@@ -1,4 +1,5 @@
-﻿using Fawary_Internship_Challange1.Models.ProductTypes;
+﻿using Fawary_Internship_Challange1.Models;
+using Fawary_Internship_Challange1.Models.ProductTypes;
 using Fawary_Internship_Challange1.Services;
 using System;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fawary_Internship_Challange1.Models
+namespace Fawary_Internship_Challange1
 {
     internal class Program
     {

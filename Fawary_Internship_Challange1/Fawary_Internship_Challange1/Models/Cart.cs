@@ -13,7 +13,7 @@ namespace Fawary_Internship_Challange1.Models
         public void AddProduct(Product product, int quantity)
         {
             if (quantity > product.Quantity)
-                throw new InvalidOperationException("Requested quantity exceeds stock.");
+                throw new InvalidOperationException($"Requested quantity exceeds stock \n Only {product.Quantity} '{product.Name}' in stock, but {quantity} requested. ");
 
             Items.Add(new CartItem { Product = product, Quantity = quantity });
         }

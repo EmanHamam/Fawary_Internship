@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fawary_Internship_Challange1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ab05165154ea42157b7e086907ad7cb0131449")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fawary_Internship_Challange1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fawary_Internship_Challange1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

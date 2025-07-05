@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fawary\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj": {}
+    "D:\\Fawary\\Fawary_Internship\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj": {}
   },
   "projects": {
-    "D:\\Fawary\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj": {
+    "D:\\Fawary\\Fawary_Internship\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fawary\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj",
+        "projectUniqueName": "D:\\Fawary\\Fawary_Internship\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj",
         "projectName": "Fawary_Internship_Challange1",
-        "projectPath": "D:\\Fawary\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj",
+        "projectPath": "D:\\Fawary\\Fawary_Internship\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1.csproj",
         "packagesPath": "C:\\Users\\Eman Hamam\\.nuget\\packages\\",
-        "outputPath": "D:\\Fawary\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\obj\\",
+        "outputPath": "D:\\Fawary\\Fawary_Internship\\Fawary_Internship_Challange1\\Fawary_Internship_Challange1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eman Hamam\\AppData\\Roaming\\NuGet\\NuGet.Config",
