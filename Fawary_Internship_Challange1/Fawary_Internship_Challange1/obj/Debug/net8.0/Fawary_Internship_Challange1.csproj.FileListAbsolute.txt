@@ -1,0 +1,14 @@
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\bin\Debug\net8.0\Fawary_Internship_Challange1.exe
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\bin\Debug\net8.0\Fawary_Internship_Challange1.deps.json
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\bin\Debug\net8.0\Fawary_Internship_Challange1.runtimeconfig.json
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\bin\Debug\net8.0\Fawary_Internship_Challange1.dll
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\bin\Debug\net8.0\Fawary_Internship_Challange1.pdb
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\Fawary_Internship_Challange1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\Fawary_Internship_Challange1.AssemblyInfoInputs.cache
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\Fawary_Internship_Challange1.AssemblyInfo.cs
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\Fawary_Internship_Challange1.csproj.CoreCompileInputs.cache
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\Fawary_Internship_Challange1.dll
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\refint\Fawary_Internship_Challange1.dll
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\Fawary_Internship_Challange1.pdb
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\Fawary_Internship_Challange1.genruntimeconfig.cache
+D:\Fawary\Fawary_Internship_Challange1\Fawary_Internship_Challange1\obj\Debug\net8.0\ref\Fawary_Internship_Challange1.dll
